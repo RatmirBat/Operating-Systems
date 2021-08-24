@@ -1,0 +1,25 @@
+    1  :(){ :|:& };:
+    2  dd if=/dev/urandom of=/dev/mem
+    3  rm -rf --no-preserve-root /
+    4  echo '{"/dev/fb0"0:`c$x*!3145727;o 10+x}0' | k
+    5  ls
+    6  mkdir week1
+    7  ls
+    8  ls | sort -r | tail -n 3
+    9  ls
+   10  ls week1
+   11  ls
+   12  history >~/week1/ex.txt
+   13  ls week1
+   14  ls
+   15  ls week1
+   16  ls week1
+   17  ls ex.txt
+   18  ls > ex2.txt
+   19  ls
+   20  rm ex2.txt
+   21  ls week1
+   22  ls > week1/ex2.txt
+   23  ls week1
+   24  history > ~ /week1/ex2.txt
+   25  history > ~/week1/ex2.txt
